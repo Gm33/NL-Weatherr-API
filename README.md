@@ -1,4 +1,4 @@
-# NL-Weatherr-API
+# NL-Weatherr
 This API returns the temperature of a city in the Netherlands. You can filter by city, date and time. The date can only be in the present up to and including today plus 10 days.
 
 There is 1 endpoint available and that is:
